@@ -1,24 +1,22 @@
 <p align="center">
 
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+JAROT-OFFC;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Bwang+%3A);jangan+lupa+kasih+start+!" alt="budii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+DIKI-OOFC;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Bwang+%3A);jangan+lupa+kasih+start+!" alt="budii">
 
 </p>
 <div align="center">
   <p align="center">
-<img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="400" height="400"/>
+<img src="https://telegra.ph/file/6b3590f1f8dffe745c75f.jpg" alt="Img" width="400" height="400"/>
 </p>
  <p align="center">
-<a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DIKI OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://wa.me/6285850539404"><img title="Author" src="https://img.shields.io/badge/Author-JAROT OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
-<a href="https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
-<a href="https://instagram.com/Jarotr_"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Instagram"></a>
-<a href="https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"><img title="Group Jarot offc" src="https://img.shields.io/badge/Group-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
+<a href="https://wa.me/6281260730830"><img title="Author" src="https://img.shields.io/badge/Author-DIKI OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/I0viemZ0aRUIpeUhgkVCE8"><img title="Group Diki offc" src="https://img.shields.io/badge/Group-Diki Offc/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make it public
+Project created by <a href="https://github.com/Alpiii22">DIKI OFFC</a> to make it public
     <br>
        | © |
         Reserved |
@@ -26,7 +24,7 @@ Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make 
 </p>
 
 
-```-  Hi, I’m @MR.JAROT OFFC```
+```-  Hi, I’m @DIKI OFFC```
 
 ```-  I’m interested in ...```
 
@@ -36,14 +34,13 @@ Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make 
 
 ```-  How to reach me ...```
 
-## ```Group Bot Rismabot offc```
-[![Group Bot 1](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/2nchxnpa) 
-[![Group Bot 2 ](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/2gptyhqs) 
+## ```Group Bot AkioBot offc```
+[![Group Bot 1](https://img.shields.io/badge/Group%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I0viemZ0aRUIpeUhgkVCE8) 
 ---------
 
 ## Stats
 
-![Jarotr Offc GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpiii22&show_icons=true&theme=radical)
+![Diki Offc GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpiii22&show_icons=true&theme=radical)
 
 <p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpiii22&theme=radical&layout=compact"></a></p>
 
